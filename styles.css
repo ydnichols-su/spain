@@ -1,0 +1,177 @@
+ body,html {
+    height: 100%;
+}
+body {
+    background-image: url(../website/images/madrid-spain-photo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Playfair Display", serif;
+    background-color: #adb5bd;
+}
+nav {
+    display: flex;
+    background-color: #252422;
+    padding: 15px;
+    justify-content: space-between;
+    font-size: 15px;
+}  
+nav a {
+    color: #fffcf2;
+}
+.welcome-box {
+    color: #fffcf2;
+    background-color: rgba(255, 0, 0, 0.7);
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 600px;
+    box-shadow: 0 0 30px #ffba08;
+    margin-left: 358px;
+    margin-top: 265px;
+}
+.myphoto {
+    margin-top: -90px;
+}
+h1{
+    text-align: center;
+    color: #fffcf2;
+}
+h2 {
+    color: #ef233c;
+    text-align: center;
+}
+.main-section01 {
+    display: flex;
+}
+.text-box01 {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 120px;
+    margin-top: 90px;
+    margin-right: 50px;
+}
+p {
+    color: #fffcf2;
+    font-size: 13px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.myphoto {
+    margin-left: 60px;
+    margin-right: -20px;
+    margin-top: 30px;
+}
+.spain-crest {
+    margin-left: 280px;
+}
+.scroll-section {
+  position: absolute;
+  top: 60px; /* adjust based on nav height */
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow-y: auto;
+  padding: 20px;
+}
+.beginning {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 13px;
+}
+.alfono {
+    display: flex;
+    align-items: flex-start;
+}
+.franco {
+    display: flex;
+    align-items: flex-start;
+}
+.congress {
+    display: flex;
+    align-items: flex-start;
+}
+.text-block01 {
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-left: 80px;
+    margin-top: 45px;
+}
+.text-block02 {
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-right: 80px;
+    margin-top: 45px;
+}
+.text-block03 {
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-left: 80px;
+    margin-top: 45px;
+}
+.democratic-law {
+    display: flex;
+    align-items: flex-start;
+}
+.eu-politics {
+    display: flex;
+    align-items: flex-start;
+}
+.anarchism {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 90px;
+}
+.francoism {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 65px;
+}
+.text-bl01 {
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-left: 80px;
+    margin-top: 45px;
+}
+.text-bl02 {
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-right: 80px;
+    margin-top: 45px;
+}
+.text-bl03 {
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-left: 80px;
+    margin-top: 45px;
+}
+.text-bl04 {
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-left: 80px;
+    margin-top: 170px;
+}
+.slide01 {
+    margin-top: 50px;
+    margin-left: 65px;
+}
+.slide02 {
+    margin-top: 50px;
+    margin-right: 65px;
+}
+.slide03 {
+    margin-top: 50px;
+    margin-left: 65px;
+}
+.paper {
+    margin-top: 80px;
+}
+.connection {
+    margin-left: 90px;
+    margin-top: -90px;
+}
+.last {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    margin-top: -60px;
+}
